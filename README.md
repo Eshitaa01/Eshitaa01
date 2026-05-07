@@ -20,10 +20,6 @@ AI Systems Engineer • Computer Vision • NLP • Full Stack Web Development U
   </a>
 
   <a href="https://github.com/Eshitaa01">
-    <img src="https://img.shields.io/github/followers/Eshitaa01?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eshitaa01&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
