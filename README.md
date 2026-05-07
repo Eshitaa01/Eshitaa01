@@ -67,3 +67,24 @@ AI Systems Engineer • Computer Vision • NLP • Full Stack Web Development U
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,mysql" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🛡 Women Safety Alert System
+An AI-powered emergency response system capable of detecting distress wake words in real time and triggering automated SOS alerts with live GPS coordinates.
+
+**Tech Stack:** Python • TensorFlow • Porcupine • Twilio API • Scikit-learn
+
+---
+
+### 📄 AI Resume and Video Optimizer
+An intelligent resume and video analysis platform that evaluates candidate profiles using NLP techniques, semantic matching, and AI-powered assessment workflows.
+
+**Tech Stack:** Python • Streamlit • Google Generative AI • AssemblyAI • PyMuPDF
+
+---
+
+### 🔧 Fixmate - Local Technician Finder
+A scalable full-stack platform designed to connect users with verified local technicians through secure booking, authentication, and centralized management systems.
+
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js
