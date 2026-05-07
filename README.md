@@ -39,3 +39,31 @@ AI Systems Engineer • Computer Vision • NLP • Full Stack Web Development U
 💻 Active problem solver across coding platforms with a strong interest in data structures and algorithms.
 
 ---
+
+## 🛠 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
+</p>
+
+### AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Full Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+</p>
+
+### Cloud & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,mysql" />
+</p>
