@@ -26,15 +26,13 @@ AI Systems Engineer • Computer Vision • NLP • Full Stack Web Development U
 
 ---
 
----
-
 ## 🚀 About Me
 
-Passionate AI Systems Engineer focused on building intelligent and scalable applications using Machine Learning, NLP, and Full Stack technologies.
+**Passionate AI Systems Engineer focused on building intelligent and scalable applications using Machine Learning, NLP, and Full Stack technologies.
 
-I enjoy transforming complex real-world problems into practical software solutions while combining clean engineering practices with modern AI capabilities.
+**I enjoy transforming complex real-world problems into practical software solutions while combining clean engineering practices with modern AI capabilities.
 
-Currently exploring cloud technologies with AWS, scalable backend architectures, and production-oriented application development.
+**Currently exploring cloud technologies with AWS, scalable backend architectures, and production-oriented application development.
 
 🏆 Patent filed at the Indian Patent Office for a machine learning-based emergency response system.
 
