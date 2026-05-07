@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eshita Aggarwal</h1>
 
-<!--
-**Eshitaa01/Eshitaa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Systems Engineer • Computer Vision • Voice AI
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Computer+Vision+Developer;Building+Intelligent+Real-World+Systems;Voice+AI+%7C+OCR+%7C+Full+Stack"
+    alt="Typing SVG"
+  />
+</p>
