@@ -91,3 +91,28 @@ A scalable full-stack platform designed to connect users with verified local tec
 
 🧠 **Tech Stack:**  
 ⚛ React.js • 🌐 Node.js • 🚂 Express.js • 🍃 MongoDB
+
+---
+
+## 🏆 Achievements
+
+- 📜 Patent filed at the Indian Patent Office for a machine learning-based emergency response system.
+- 🥇 Selected among the Top 10 teams in the Model Expo Hackathon for developing an AI-powered women safety solution.
+- 💻 Active problem solver with strong interest in Data Structures and Algorithms.
+
+---
+
+## 🌱 Currently Exploring
+
+- ☁ AWS Cloud Technologies
+- 🧠 Advanced NLP Systems
+- ⚡ Scalable Backend Architectures
+- 🤖 Production-Ready AI Applications
+
+---
+
+## 💭 Engineering Philosophy
+
+Building technology that is not only intelligent, but practical, scalable, and impactful in real-world environments.
+
+
