@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshita Aggarwal</h1>
 
 <h3 align="center">
-AI Systems Engineer • Computer Vision • NLP • MERN • Machine Learning
+AI Systems Engineer • Computer Vision • NLP • Full Stack Web Development Using MERN • Machine Learning
 </h3>
 
 <p align="center">
