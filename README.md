@@ -23,3 +23,19 @@ AI Systems Engineer • Computer Vision • NLP • Full Stack Web Development U
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Building intelligent systems using **Computer Vision, NLP, Voice AI, and Machine Learning**
+- 🧠 Exploring **OCR, Object Tracking, AI Automation, and Scalable Full Stack Applications**
+- ⚡ Developed AI-powered systems including:
+  - **Voice-Activated Women Safety Alert System**
+  - **AI Resume & Video Optimizer**
+  - **Full Stack Technician Booking Platform**
+- 🏆 Patent filed at the **Indian Patent Office** for a machine learning-based emergency response system
+- 💡 Passionate about solving real-world problems through AI-driven engineering
+- 📈 Solved **200+ DSA problems** across coding platforms
+
+---
